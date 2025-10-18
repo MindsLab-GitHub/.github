@@ -1,6 +1,6 @@
 # MindsLab
 
-Welcome to MindsLab's GitHub organization! 🚀
+Welcome to MindsLab organization! 🚀
 
 ## About Us
 
