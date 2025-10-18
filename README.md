@@ -1,6 +1,6 @@
 # MindsLab
 
-Welcome to MindsLab organization! 🚀
+Welcome to MindsLab of IIT Dharwad! 🚀
 
 ## About Us
 
@@ -20,7 +20,7 @@ If you're new to our organization:
 1. Browse our [repositories](https://github.com/orgs/MindsLab-GitHub/repositories) to see what we're working on
 2. Check out our contribution guidelines (if available)
 3. Join the conversation in issues and discussions
-4. Feel free to fork, star, and contribute to our projects
+4. Feel free to star, and contribute to our projects
 
 ## Community Health Files
 
